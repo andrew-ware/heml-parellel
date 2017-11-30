@@ -1,4 +1,4 @@
-#heml-parallel
+# heml-parallel
 
 Simple example of parallel calls to `heml` throwing a `TypeError`.
 
