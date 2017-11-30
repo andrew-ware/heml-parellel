@@ -1,0 +1,19 @@
+{
+  "name": "heml-parallel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "heml": "^1.1.2",
+    "rxjs": "^5.5.2"
+  },
+  "devDependencies": {
+    "ava": "^0.24.0"
+  }
+}
